@@ -1,4 +1,4 @@
-# from curses import def_shell_mode
+
 
 
 # class angka:
