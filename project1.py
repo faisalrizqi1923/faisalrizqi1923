@@ -1,6 +1,8 @@
 
 
 
+print("Selamat datang di program sederhana konversi suhu")
+
 
 
 celcius = int(input('masukan suhu anda dalam celcius: '))
@@ -19,6 +21,8 @@ elif satuan_suhu =="F" or satuan_suhu =='f':
 elif satuan_suhu =="K" or satuan_suhu =='k':
     hasil = celcius + 273
     print(f"suhu anda dalam kelvin adalah {hasil} Kelvin")
+
+
 
 else :
     print('tolong masukkan satuan suhu yang akan di konversikan dengan benar !')
